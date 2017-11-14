@@ -3,5 +3,9 @@ AAA
 BBB
 CCC
 
+<<<<<<< HEAD
 
 EEE
+=======
+DDD
+>>>>>>> master
